@@ -7,7 +7,10 @@ Mix Compile C
 This is preview level code and not released to hex yet. To try it check out the library to a path somewhere and use the
 `:path` attribute when adding the dep.
 
-There are multiple things wrong with current iteration.
+There are multiple things wrong with current iteration. What I am foucusing now is if it compiles correctly and if the
+configuration specs will need change. Please take part in discussing these in the issues.
+
+After that I will remove the noise and add things like skipping compilation when it's not needed and so on.
 
 
 ## Usage

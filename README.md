@@ -1,6 +1,8 @@
 Mix Compile C
 ===============
 
+Create a 'c' code compilation tasks for Elixir.
+Mostly based on Basho's [rebar](https://github.com/rebar/rebar/) tool.
 
 ## Preview Version
 
